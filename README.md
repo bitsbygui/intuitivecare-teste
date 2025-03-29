@@ -77,7 +77,7 @@ npm run dev
 
 ### 4. Testar a API no Postman
 
-Importe a coleção `postman/collection.json` no Postman e execute os testes.
+Importe a coleção `postman/Api de Operadoras.postman_collection.json` no Postman e execute os testes.
 
 ## Contato
 
